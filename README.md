@@ -9,7 +9,7 @@
 </div>
 
   
-## <br>Come and get to know me more! 🙋<img align="right" height="120em" src="https://i.picasion.com/pic91/9605c4dacfeebd5cd7a42bdbf3300161.gif"></a>
+## Come and get to know me more! 🙋<img align="right" height="120em" src="https://i.picasion.com/pic91/9605c4dacfeebd5cd7a42bdbf3300161.gif"></a>
 • Follow me on social media 🏃: <a href="https://instagram.com/edroluiz">Instagram</a>, <a href="https://www.linkedin.com/in/pedro-luiz-b9488b203/">Linkedin</a> and <a href="https://twitter.com/edroluiz">Twitter</a>.<br>
 • My main interests are 👨🏻‍💻: Software Engineering, Web Development and UX Designer.<br>
 • My entertainment is 🎮: Playing video games, going to the beach, hanging out with my family and friends.
