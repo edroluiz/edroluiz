@@ -1,4 +1,4 @@
-# Hi there, I'm Pedro Luiz 
+# Hi there, I'm Pedro Luiz 👋🏼
   
 
 <a href="https://github.com/edroluiz">
