@@ -2,8 +2,8 @@
   
 
 <a href="https://github.com/edroluiz">
-<br><img height="150em" src="https://github-readme-stats.vercel.app/api?username=edroluiz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edroluiz&layout=compact&langs_count=7&theme=midnight-purple"></a><br>
+<!-- <br><img height="150em" src="https://github-readme-stats.vercel.app/api?username=edroluiz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edroluiz&layout=compact&langs_count=7&theme=midnight-purple"></a><br> -->
 
 <br>Student of **Information Systems** at UFPB. I have experience with **Software Developer**, **UX Design** and **Digital Marketing**. I have knowledge in Programming Languages like **Python**, **Java** and **JavaScript**. I am always improving my knowledge and developing **new techniques**, always seeking a professional improvement within the technology area. Capable of developing **solutions** for **future problems** in an increasingly efficient manner.
 
